@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG المشاهد</string>
+    <string name="action_exit">خروج</string>
+    <string name="action_open_xmltv_url">فتح XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">فتح XMLTV EPG ملف</string>
+    <string name="action_search">بحث</string>
+    <string name="button_open">فتح</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="dialog_open_xmltv_url_title">أدخل URL</string>
+</resources>

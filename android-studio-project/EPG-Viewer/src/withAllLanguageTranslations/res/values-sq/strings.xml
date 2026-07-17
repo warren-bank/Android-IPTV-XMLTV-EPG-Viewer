@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Shikuesi</string>
+    <string name="action_exit">Dalje</string>
+    <string name="action_open_xmltv_url">Hapur XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Hapur XMLTV EPG Skedar</string>
+    <string name="action_search">Kërko</string>
+    <string name="button_open">Hapur</string>
+    <string name="button_cancel">Shfuqi</string>
+    <string name="dialog_open_xmltv_url_title">Hyr URL</string>
+</resources>

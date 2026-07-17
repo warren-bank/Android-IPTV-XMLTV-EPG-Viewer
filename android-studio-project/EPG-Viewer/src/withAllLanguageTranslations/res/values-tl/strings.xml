@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Manonood</string>
+    <string name="action_exit">Lumabas</string>
+    <string name="action_open_xmltv_url">Bukas XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Bukas XMLTV EPG I-file</string>
+    <string name="action_search">Maghanap</string>
+    <string name="button_open">Bukas</string>
+    <string name="button_cancel">I-cancel</string>
+    <string name="dialog_open_xmltv_url_title">Pindutin ang Enter URL</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Séetaan-kat</string>
+    <string name="action_exit">Génn</string>
+    <string name="action_open_xmltv_url">Ubbi XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Ubbi XMLTV EPG Dosye</string>
+    <string name="action_search">Seet</string>
+    <string name="button_open">Ubbi</string>
+    <string name="button_cancel">Dindi</string>
+    <string name="dialog_open_xmltv_url_title">Duggal URL</string>
+</resources>

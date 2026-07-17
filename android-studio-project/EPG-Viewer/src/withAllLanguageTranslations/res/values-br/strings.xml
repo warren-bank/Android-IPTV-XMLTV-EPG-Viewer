@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Gwelet</string>
+    <string name="action_exit">Emaout o kuitaat</string>
+    <string name="action_open_xmltv_url">Digor XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Digor XMLTV EPG Renkell</string>
+    <string name="action_search">Klask</string>
+    <string name="button_open">Digor</string>
+    <string name="button_cancel">Riklañ</string>
+    <string name="dialog_open_xmltv_url_title">Mont e-barzh URL</string>
+</resources>

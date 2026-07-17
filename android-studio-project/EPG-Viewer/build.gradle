@@ -1,0 +1,77 @@
+apply from: '../constants.gradle'
+apply plugin: 'com.android.application'
+
+android {
+  namespace project.ext.applicationId
+
+  compileSdkVersion project.ext.compileSdkVersion
+  buildToolsVersion project.ext.buildToolsVersion
+
+  compileOptions {
+    sourceCompatibility project.ext.javaVersion
+    targetCompatibility project.ext.javaVersion
+  }
+
+  defaultConfig {
+    minSdkVersion    project.ext.minSdkVersion
+    targetSdkVersion project.ext.targetSdkVersion
+
+    applicationId project.ext.applicationId
+    versionName   project.ext.releaseVersion
+    versionCode   project.ext.releaseVersionCode
+
+    archivesBaseName += "-$versionName"
+  }
+
+  flavorDimensions "languageResources"
+
+  productFlavors {
+    withAllLanguageTranslations {
+      dimension "languageResources"
+    }
+    english {
+      dimension "languageResources"
+    }
+  }
+
+  buildTypes {
+    release {
+      debuggable      false
+      jniDebuggable   false
+      minifyEnabled   true
+      shrinkResources true
+      proguardFiles = [
+        "proguard-rules.txt",
+        getDefaultProguardFile('proguard-android.txt')
+      ]
+    }
+    debug {
+      debuggable      true
+      jniDebuggable   true
+      minifyEnabled   false
+      shrinkResources false
+    }
+  }
+
+  buildFeatures {
+    buildConfig false
+  }
+
+  dependenciesInfo {
+    includeInApk    = false  // Disables dependency metadata when building APKs.
+    includeInBundle = false  // Disables dependency metadata when building Android App Bundles.
+  }
+
+  lintOptions {
+    disable 'MissingTranslation'
+    abortOnError true
+  }
+}
+
+dependencies {
+  implementation project(':android-tv-epg')
+
+  implementation 'androidx.appcompat:appcompat:'         + project.ext.jetpackVersion     // (1.0 MB) https://mvnrepository.com/artifact/androidx.appcompat/appcompat?repo=google
+  implementation 'com.google.android.material:material:' + project.ext.jetpackVersion     // (566 KB) https://mvnrepository.com/artifact/com.google.android.material/material?repo=google
+  implementation 'com.google.guava:guava:18.0'
+}

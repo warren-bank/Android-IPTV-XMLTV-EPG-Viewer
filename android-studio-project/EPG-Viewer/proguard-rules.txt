@@ -1,0 +1,7 @@
+-keep class com.github.warren_bank.epg_viewer.** { *; }
+
+-dontwarn javax.annotation.CheckReturnValue
+-dontwarn javax.annotation.Nullable
+-dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+-dontwarn org.joda.convert.FromString
+-dontwarn org.joda.convert.ToString

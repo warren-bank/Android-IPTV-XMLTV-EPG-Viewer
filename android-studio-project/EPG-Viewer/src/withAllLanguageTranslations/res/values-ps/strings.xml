@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG کتونکی</string>
+    <string name="action_exit">وتل</string>
+    <string name="action_open_xmltv_url">پرانیستل XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">پرانیستل XMLTV EPG فایل</string>
+    <string name="action_search">لټون</string>
+    <string name="button_open">پرانیستل</string>
+    <string name="button_cancel">لغوه کړئ</string>
+    <string name="dialog_open_xmltv_url_title">ننوځئ URL</string>
+</resources>

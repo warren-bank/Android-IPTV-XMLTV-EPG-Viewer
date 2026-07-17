@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Караусы</string>
+    <string name="action_exit">Сығыу</string>
+    <string name="action_open_xmltv_url">Асыҡ XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Асыҡ XMLTV EPG Файл</string>
+    <string name="action_search">Эҙләү</string>
+    <string name="button_open">Асыҡ</string>
+    <string name="button_cancel">Һөҙөмтәне юҡҡа сығарыу</string>
+    <string name="dialog_open_xmltv_url_title">Кер URL</string>
+</resources>

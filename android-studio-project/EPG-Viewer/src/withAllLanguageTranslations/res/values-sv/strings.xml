@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Visare</string>
+    <string name="action_exit">Avsluta</string>
+    <string name="action_open_xmltv_url">Öppna XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Öppna XMLTV EPG Fil</string>
+    <string name="action_search">Sök</string>
+    <string name="button_open">Öppna</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="dialog_open_xmltv_url_title">Tryck på Enter URL</string>
+</resources>

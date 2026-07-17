@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG צוקוקער</string>
+    <string name="action_exit">אויסגאַנג</string>
+    <string name="action_open_xmltv_url">עפֿענען XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">עפֿענען XMLTV EPG טעקע</string>
+    <string name="action_search">זוכן</string>
+    <string name="button_open">עפֿענען</string>
+    <string name="button_cancel">אָפּזאָגן</string>
+    <string name="dialog_open_xmltv_url_title">אַרײַנגיין URL</string>
+</resources>

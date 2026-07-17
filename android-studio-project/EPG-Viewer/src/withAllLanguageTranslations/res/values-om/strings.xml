@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Daawwataa</string>
+    <string name="action_exit">Bitii</string>
+    <string name="action_open_xmltv_url">Bani XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Bani XMLTV EPG Faayilii</string>
+    <string name="action_search">Barbaadi</string>
+    <string name="button_open">Bani</string>
+    <string name="button_cancel">Haqi</string>
+    <string name="dialog_open_xmltv_url_title">Seeni URL</string>
+</resources>

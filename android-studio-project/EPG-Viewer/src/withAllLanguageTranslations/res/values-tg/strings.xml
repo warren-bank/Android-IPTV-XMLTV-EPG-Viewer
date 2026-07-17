@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Намоишдиҳанда</string>
+    <string name="action_exit">Баромадан</string>
+    <string name="action_open_xmltv_url">Кушода XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Кушода XMLTV EPG Файл</string>
+    <string name="action_search">Ҷустуҷӯ</string>
+    <string name="button_open">Кушода</string>
+    <string name="button_cancel">Бекор кардан</string>
+    <string name="dialog_open_xmltv_url_title">Ворид шавед URL</string>
+</resources>

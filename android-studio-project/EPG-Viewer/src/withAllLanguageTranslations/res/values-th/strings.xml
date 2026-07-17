@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG ผู้ชม</string>
+    <string name="action_exit">ออก</string>
+    <string name="action_open_xmltv_url">เปิด XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">เปิด XMLTV EPG ไฟล์</string>
+    <string name="action_search">ค้นหา</string>
+    <string name="button_open">เปิด</string>
+    <string name="button_cancel">ยกเลิก</string>
+    <string name="dialog_open_xmltv_url_title">กด Enter URL</string>
+</resources>

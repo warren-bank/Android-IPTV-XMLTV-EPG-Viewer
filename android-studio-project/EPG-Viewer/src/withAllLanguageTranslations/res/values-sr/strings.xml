@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Посматрач</string>
+    <string name="action_exit">Излаз</string>
+    <string name="action_open_xmltv_url">Отвори XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Отвори XMLTV EPG Датотека</string>
+    <string name="action_search">Претрага</string>
+    <string name="button_open">Отвори</string>
+    <string name="button_cancel">Откажи</string>
+    <string name="dialog_open_xmltv_url_title">Унесите URL</string>
+</resources>

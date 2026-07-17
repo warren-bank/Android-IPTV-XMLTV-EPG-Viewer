@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Umbonisi</string>
+    <string name="action_exit">Phuma</string>
+    <string name="action_open_xmltv_url">Vula XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Vula XMLTV EPG Ifayela</string>
+    <string name="action_search">Funa</string>
+    <string name="button_open">Vula</string>
+    <string name="button_cancel">Khansela</string>
+    <string name="dialog_open_xmltv_url_title">Ngena URL</string>
+</resources>

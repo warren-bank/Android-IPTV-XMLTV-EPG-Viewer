@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Gadò</string>
+    <string name="action_exit">Sòti</string>
+    <string name="action_open_xmltv_url">Ouvè XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Ouvè XMLTV EPG Fichye</string>
+    <string name="action_search">Chèche</string>
+    <string name="button_open">Ouvè</string>
+    <string name="button_cancel">Anile</string>
+    <string name="dialog_open_xmltv_url_title">Antre URL</string>
+</resources>

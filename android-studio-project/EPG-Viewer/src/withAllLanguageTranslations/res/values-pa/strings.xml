@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG ਦਰਸ਼ਕ</string>
+    <string name="action_exit">ਬਾਹਰ ਨਿਕਲੋ</string>
+    <string name="action_open_xmltv_url">ਖੋਲ੍ਹੋ XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">ਖੋਲ੍ਹੋ XMLTV EPG ਫਾਈਲ</string>
+    <string name="action_search">ਖੋਜੋ</string>
+    <string name="button_open">ਖੋਲ੍ਹੋ</string>
+    <string name="button_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_open_xmltv_url_title">ਦਾਖਲ ਕਰੋ URL</string>
+</resources>

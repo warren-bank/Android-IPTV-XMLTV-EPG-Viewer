@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Zouschauer</string>
+    <string name="action_exit">Ausgang</string>
+    <string name="action_open_xmltv_url">Op XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Op XMLTV EPG Datei</string>
+    <string name="action_search">Sichen</string>
+    <string name="button_open">Op</string>
+    <string name="button_cancel">Ofsoen</string>
+    <string name="dialog_open_xmltv_url_title">Gitt an URL</string>
+</resources>

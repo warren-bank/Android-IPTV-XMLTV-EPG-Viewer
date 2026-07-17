@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG 시청자</string>
+    <string name="action_exit">종료</string>
+    <string name="action_open_xmltv_url">열기 XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">열기 XMLTV EPG 파일</string>
+    <string name="action_search">검색</string>
+    <string name="button_open">열기</string>
+    <string name="button_cancel">취소</string>
+    <string name="dialog_open_xmltv_url_title">입력 URL</string>
+</resources>

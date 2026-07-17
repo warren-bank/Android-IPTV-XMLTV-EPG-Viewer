@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG दर्शक</string>
+    <string name="action_exit">बाहेर पडणे</string>
+    <string name="action_open_xmltv_url">उघडा XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">उघडा XMLTV EPG फाइल</string>
+    <string name="action_search">शोध</string>
+    <string name="button_open">उघडा</string>
+    <string name="button_cancel">रद्द करा</string>
+    <string name="dialog_open_xmltv_url_title">प्रवेश करा URL</string>
+</resources>

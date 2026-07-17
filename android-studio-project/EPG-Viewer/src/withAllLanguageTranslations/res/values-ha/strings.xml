@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Mai kallo</string>
+    <string name="action_exit">Fita</string>
+    <string name="action_open_xmltv_url">Buɗe XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Buɗe XMLTV EPG Fayil</string>
+    <string name="action_search">Nemo</string>
+    <string name="button_open">Buɗe</string>
+    <string name="button_cancel">Soke</string>
+    <string name="dialog_open_xmltv_url_title">Shiga URL</string>
+</resources>

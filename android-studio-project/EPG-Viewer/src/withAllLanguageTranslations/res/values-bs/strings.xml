@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Gledalac</string>
+    <string name="action_exit">Izlaz</string>
+    <string name="action_open_xmltv_url">Otvoreno XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Otvoreno XMLTV EPG Datoteka</string>
+    <string name="action_search">Pretraga</string>
+    <string name="button_open">Otvoreno</string>
+    <string name="button_cancel">Otkaži</string>
+    <string name="dialog_open_xmltv_url_title">Uđi URL</string>
+</resources>

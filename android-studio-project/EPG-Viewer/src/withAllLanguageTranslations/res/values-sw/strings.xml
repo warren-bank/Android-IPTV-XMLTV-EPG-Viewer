@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Mtazamaji</string>
+    <string name="action_exit">Toka</string>
+    <string name="action_open_xmltv_url">Fungua XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Fungua XMLTV EPG Faili</string>
+    <string name="action_search">Tafuta</string>
+    <string name="button_open">Fungua</string>
+    <string name="button_cancel">Futa</string>
+    <string name="dialog_open_xmltv_url_title">Ingia URL</string>
+</resources>

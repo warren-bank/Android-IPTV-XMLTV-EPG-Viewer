@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Penonton</string>
+    <string name="action_exit">Keluar</string>
+    <string name="action_open_xmltv_url">Terima XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Terima XMLTV EPG Fail</string>
+    <string name="action_search">Cari</string>
+    <string name="button_open">Terima</string>
+    <string name="button_cancel">Batal</string>
+    <string name="dialog_open_xmltv_url_title">Masuk URL</string>
+</resources>

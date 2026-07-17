@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Ikuslea</string>
+    <string name="action_exit">Irten</string>
+    <string name="action_open_xmltv_url">Irekita XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Irekita XMLTV EPG Fitxategia</string>
+    <string name="action_search">Bilatu</string>
+    <string name="button_open">Irekita</string>
+    <string name="button_cancel">Ezeztatu</string>
+    <string name="dialog_open_xmltv_url_title">Sartu URL</string>
+</resources>

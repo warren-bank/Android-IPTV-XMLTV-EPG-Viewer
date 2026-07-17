@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Spektanto</string>
+    <string name="action_exit">Eksiri</string>
+    <string name="action_open_xmltv_url">Malfermita XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Malfermita XMLTV EPG Dosiero</string>
+    <string name="action_search">Serĉi</string>
+    <string name="button_open">Malfermita</string>
+    <string name="button_cancel">Anuligi</string>
+    <string name="dialog_open_xmltv_url_title">Eniru URL</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Kykker</string>
+    <string name="action_exit">Uitstek</string>
+    <string name="action_open_xmltv_url">Oop XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Oop XMLTV EPG Lêer</string>
+    <string name="action_search">Soek</string>
+    <string name="button_open">Oop</string>
+    <string name="button_cancel">Kanselleer</string>
+    <string name="dialog_open_xmltv_url_title">Gaan in URL</string>
+</resources>

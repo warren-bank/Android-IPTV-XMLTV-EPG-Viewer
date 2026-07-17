@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG ကြည့်ရှုသူ</string>
+    <string name="action_exit">ထွက်ရန်</string>
+    <string name="action_open_xmltv_url">ဖွင့် XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">ဖွင့် XMLTV EPG ဖိုင်</string>
+    <string name="action_search">ရှာဖွေ</string>
+    <string name="button_open">ဖွင့်</string>
+    <string name="button_cancel">ဖျက်ရန်</string>
+    <string name="dialog_open_xmltv_url_title">ထည့်ပါ URL</string>
+</resources>

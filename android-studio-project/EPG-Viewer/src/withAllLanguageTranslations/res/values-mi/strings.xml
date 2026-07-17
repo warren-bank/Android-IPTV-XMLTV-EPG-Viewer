@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Kaioha</string>
+    <string name="action_exit">Putanga</string>
+    <string name="action_open_xmltv_url">Tuwhera XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Tuwhera XMLTV EPG Kōnae</string>
+    <string name="action_search">Rapu</string>
+    <string name="button_open">Tuwhera</string>
+    <string name="button_cancel">Whakakore</string>
+    <string name="dialog_open_xmltv_url_title">Tomo URL</string>
+</resources>

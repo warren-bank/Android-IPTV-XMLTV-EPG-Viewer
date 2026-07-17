@@ -1,0 +1,4 @@
+include ':EPG-Viewer'
+
+include ':android-tv-epg'
+project(':android-tv-epg').projectDir = new File(rootDir, 'libs/android-tv-epg')

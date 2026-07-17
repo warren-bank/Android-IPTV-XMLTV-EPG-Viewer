@@ -1,0 +1,2 @@
+https://github.com/DeBaschdi/service.takealug.epg-grabber/raw/Matrix/icon.png
+https://github.com/DeBaschdi/service.takealug.epg-grabber/raw/Matrix/LICENSE

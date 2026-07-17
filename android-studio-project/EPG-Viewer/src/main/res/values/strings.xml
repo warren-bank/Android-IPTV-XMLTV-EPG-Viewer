@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPG Viewer</string>
+
+    <string name="action_exit">Exit</string>
+
+    <string name="action_open_xmltv_url">Open XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Open XMLTV EPG File</string>
+    <string name="action_search">Search</string>
+
+    <string name="button_open">Open</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="dialog_open_xmltv_url_title">Enter URL</string>
+    <string name="dialog_open_xmltv_url_button_positive">@string/button_open</string>
+    <string name="dialog_open_xmltv_url_button_negative">@string/button_cancel</string>
+</resources>
