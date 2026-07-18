@@ -1,5 +1,7 @@
 package com.github.warren_bank.epg_viewer;
 
+import com.github.warren_bank.epg_viewer.settings.SettingsActivity;
+import com.github.warren_bank.epg_viewer.settings.SettingsUtils;
 import com.github.warren_bank.epg_viewer.utils.EPGDataImpl;
 import com.github.warren_bank.epg_viewer.utils.FileUtils;
 
@@ -19,6 +21,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
@@ -109,6 +112,11 @@ public class EpgActivity extends AppCompatActivity {
                 return true;
             }
 
+            case R.id.action_settings: {
+                SettingsActivity.open(EpgActivity.this);
+                return true;
+            }
+
             case R.id.action_exit: {
                 ExitActivity.open(EpgActivity.this);
                 return true;
@@ -134,11 +142,15 @@ public class EpgActivity extends AppCompatActivity {
     // ---------------------------------------------------------------------------------------------
 
     private void showUrlDialog() {
-        final EditText input = new EditText(this);
-        input.setHint("https://example.com/epg.xmltv");
+        final EditText input = new EditText(EpgActivity.this);
         input.setInputType(InputType.TYPE_TEXT_VARIATION_URI);
+        input.setHint(R.string.pref_default_xmltv_url_hint);
+        input.setText(
+            SettingsUtils.getDefaultXmltvEpgUrlPreference(EpgActivity.this),
+            TextView.BufferType.NORMAL
+        );
 
-        new AlertDialog.Builder(this)
+        new AlertDialog.Builder(EpgActivity.this)
                 .setTitle(R.string.dialog_open_xmltv_url_title)
                 .setView(input)
                 .setPositiveButton(R.string.dialog_open_xmltv_url_button_positive, new DialogInterface.OnClickListener() {

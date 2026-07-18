@@ -2,11 +2,11 @@
 <resources>
     <string name="app_name">EPG Viewer</string>
 
-    <string name="action_exit">Exit</string>
-
     <string name="action_open_xmltv_url">Open XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Open XMLTV EPG File</string>
     <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
 
     <string name="button_open">Open</string>
     <string name="button_cancel">Cancel</string>
@@ -14,4 +14,11 @@
     <string name="dialog_open_xmltv_url_title">Enter URL</string>
     <string name="dialog_open_xmltv_url_button_positive">@string/button_open</string>
     <string name="dialog_open_xmltv_url_button_negative">@string/button_cancel</string>
+
+  <!-- Settings: Default XMLTV EPG URL -->
+  <string translatable="false" name="pref_default_xmltv_url_key">pref_default_xmltv_url</string>
+  <string name="pref_default_xmltv_url_title">Default XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Initial value in \"Open XMLTV EPG URL\" dialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_hint">https://example.com/epg.xmltv</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

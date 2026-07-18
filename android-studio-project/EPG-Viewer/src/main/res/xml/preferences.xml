@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory
+    android:title="@string/app_name">
+
+    <EditTextPreference
+      android:key="@string/pref_default_xmltv_url_key"
+      android:title="@string/pref_default_xmltv_url_title"
+      android:summary="@string/pref_default_xmltv_url_summary"
+      android:inputType="text"
+      android:hint="@string/pref_default_xmltv_url_hint"
+      android:defaultValue="@string/pref_default_xmltv_url_default" />
+
+  </PreferenceCategory>
+</PreferenceScreen>

@@ -19,8 +19,13 @@
         android:icon="@drawable/baseline_search_black_24"
         app:showAsAction="always" />
     <item
-        android:id="@+id/action_exit"
+        android:id="@+id/action_settings"
         android:orderInCategory="4"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="5"
         android:title="@string/action_exit"
         app:showAsAction="never" />
 </menu>

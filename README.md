@@ -7,10 +7,15 @@ Android app that reads an IPTV XMLTV file, and displays an EPG (electronic progr
 * IPTV XMLTV file can be read from either a network URL or the local filesystem
 * list of channels can be filtered
 
+#### Settings:
+
+1. Default XMLTV EPG URL
+   - Initial value in "Open XMLTV EPG URL" dialog.
+
 #### Intent filters:
 
-To enable the automatic updating of EPG data from an externally bookmarked URL,<br>
-which returns a server response containing a valid IPTV XMLTV file.
+Enables the automatic updating of EPG data from an externally bookmarked URL.<br>
+The `data` URL must return a server response that contains a valid IPTV XMLTV file.
 
 Supported Intents:
 
