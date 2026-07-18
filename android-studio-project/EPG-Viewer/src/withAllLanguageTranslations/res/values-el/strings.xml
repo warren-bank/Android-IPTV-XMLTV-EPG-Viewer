@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Πρόγραμμα προβολής</string>
-    <string name="action_exit">Έξοδος</string>
     <string name="action_open_xmltv_url">Άνοιγμα XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Άνοιγμα XMLTV EPG Αρχείο</string>
     <string name="action_search">Αναζήτηση</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="action_exit">Έξοδος</string>
     <string name="button_open">Άνοιγμα</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="dialog_open_xmltv_url_title">Εισαγωγή URL</string>
+  <string name="pref_default_xmltv_url_title">Προεπιλογή XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Αρχική τιμή σε \"Άνοιγμα XMLTV EPG URL\" διάλογος.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

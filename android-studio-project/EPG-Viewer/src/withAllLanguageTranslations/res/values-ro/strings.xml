@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Vizualizator</string>
-    <string name="action_exit">Ieșire</string>
     <string name="action_open_xmltv_url">Deschideți XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Deschideți XMLTV EPG Fișier</string>
     <string name="action_search">Căutare</string>
+    <string name="action_settings">Setări</string>
+    <string name="action_exit">Ieșire</string>
     <string name="button_open">Deschideți</string>
     <string name="button_cancel">Anulează</string>
     <string name="dialog_open_xmltv_url_title">Introduceți URL</string>
+  <string name="pref_default_xmltv_url_title">Implicit XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Valoarea inițială în \"Deschideți XMLTV EPG URL\" dialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

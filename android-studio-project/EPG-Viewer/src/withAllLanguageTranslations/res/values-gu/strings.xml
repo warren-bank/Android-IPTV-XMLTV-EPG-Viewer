@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG દર્શક</string>
-    <string name="action_exit">બહાર નીકળો</string>
-    <string name="action_open_xmltv_url">ખોલો XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">ખોલો XMLTV EPG ફાઇલ</string>
+    <string name="action_open_xmltv_url">ખુલ્લું XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">ખુલ્લું XMLTV EPG ફાઇલ</string>
     <string name="action_search">શોધો</string>
-    <string name="button_open">ખોલો</string>
+    <string name="action_settings">સેટિંગ્સ</string>
+    <string name="action_exit">બહાર નીકળો</string>
+    <string name="button_open">ખુલ્લું</string>
     <string name="button_cancel">રદ કરો</string>
     <string name="dialog_open_xmltv_url_title">પ્રવેશો URL</string>
+  <string name="pref_default_xmltv_url_title">નિર્ધારિત XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">પ્રારંભિક મૂલ્ય \"ખુલ્લું XMLTV EPG URL\" સંવાદ.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

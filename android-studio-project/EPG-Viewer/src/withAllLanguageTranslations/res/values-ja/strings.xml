@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG ビューアー</string>
-    <string name="action_exit">終了</string>
     <string name="action_open_xmltv_url">開く XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">開く XMLTV EPG ファイル</string>
     <string name="action_search">検索</string>
+    <string name="action_settings">設定</string>
+    <string name="action_exit">終了</string>
     <string name="button_open">開く</string>
     <string name="button_cancel">キャンセル</string>
     <string name="dialog_open_xmltv_url_title">入力 URL</string>
+  <string name="pref_default_xmltv_url_title">デフォルト XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">初期値は \"開く XMLTV EPG URL\" ダイアログ.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

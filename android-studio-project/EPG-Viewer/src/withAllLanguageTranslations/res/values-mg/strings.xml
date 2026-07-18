@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Mpijery</string>
-    <string name="action_exit">Mivoaka</string>
     <string name="action_open_xmltv_url">Misokatra XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Misokatra XMLTV EPG Rakitra</string>
-    <string name="action_search">Mitady</string>
+    <string name="action_search">Fikarohana</string>
+    <string name="action_settings">Fikirana</string>
+    <string name="action_exit">Mivoaka</string>
     <string name="button_open">Misokatra</string>
     <string name="button_cancel">Fanafoanana</string>
     <string name="dialog_open_xmltv_url_title">Midira URL</string>
+  <string name="pref_default_xmltv_url_title">Araka ny mahazatra XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Sanda voalohany ao \"Misokatra XMLTV EPG URL\" resadresaka.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

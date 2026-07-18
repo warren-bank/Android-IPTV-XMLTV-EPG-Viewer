@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EPG பார்ப்பவர்</string>
-    <string name="action_exit">வெளியேறு</string>
+    <string name="app_name">EPG காண்பவர்</string>
     <string name="action_open_xmltv_url">திற XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">திற XMLTV EPG கோப்பு</string>
     <string name="action_search">தேடல்</string>
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="action_exit">வெளியேறு</string>
     <string name="button_open">திற</string>
     <string name="button_cancel">ரத்து செய்</string>
     <string name="dialog_open_xmltv_url_title">உள்ளே நுழைக URL</string>
+  <string name="pref_default_xmltv_url_title">பூர்வநிலை XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">உள்ளே ஆரம்ப மதிப்பு \"திற XMLTV EPG URL\" உரையாடல்.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

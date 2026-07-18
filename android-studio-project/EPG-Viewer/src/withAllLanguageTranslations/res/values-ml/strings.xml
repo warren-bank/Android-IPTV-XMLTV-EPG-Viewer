@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG കാഴ്ചക്കാരൻ</string>
-    <string name="action_exit">പുറത്തുകടക്കുക</string>
     <string name="action_open_xmltv_url">തുറക്കുക XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">തുറക്കുക XMLTV EPG ഫയൽ</string>
     <string name="action_search">തിരയുക</string>
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="action_exit">പുറത്തുകടക്കുക</string>
     <string name="button_open">തുറക്കുക</string>
     <string name="button_cancel">റദ്ദാക്കുക</string>
     <string name="dialog_open_xmltv_url_title">പ്രവേശിക്കുക URL</string>
+  <string name="pref_default_xmltv_url_title">നിലവിലുള്ള XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">ആരംഭ മൂല്യം \"തുറക്കുക XMLTV EPG URL\" സംഭാഷണം.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

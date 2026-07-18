@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Tomoshabin</string>
-    <string name="action_exit">Chiqish</string>
     <string name="action_open_xmltv_url">Ochiq XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Ochiq XMLTV EPG Hujjat</string>
     <string name="action_search">Qidiruv</string>
+    <string name="action_settings">Sozlamalar</string>
+    <string name="action_exit">Chiqish</string>
     <string name="button_open">Ochiq</string>
     <string name="button_cancel">Bekor qilish</string>
     <string name="dialog_open_xmltv_url_title">Kiriting URL</string>
+  <string name="pref_default_xmltv_url_title">Standart XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Boshlang\'ich qiymat \"Ochiq XMLTV EPG URL\" muloqot oynasi.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Espectator</string>
-    <string name="action_exit">Sortida</string>
     <string name="action_open_xmltv_url">Dubèrt XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Dubèrt XMLTV EPG Fichièr</string>
-    <string name="action_search">Cercar</string>
+    <string name="action_search">Cèrca</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_exit">Sortida</string>
     <string name="button_open">Dubèrt</string>
     <string name="button_cancel">Anullar</string>
     <string name="dialog_open_xmltv_url_title">Entrar URL</string>
+  <string name="pref_default_xmltv_url_title">Per defaut XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Valor inicial dins \"Dubèrt XMLTV EPG URL\" Dialòg.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

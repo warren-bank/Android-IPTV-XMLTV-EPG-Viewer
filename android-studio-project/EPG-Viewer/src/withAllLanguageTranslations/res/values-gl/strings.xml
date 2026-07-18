@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Veitur</string>
-    <string name="action_exit">Saír</string>
     <string name="action_open_xmltv_url">Aberto XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">Aberto XMLTV EPG Archivo</string>
-    <string name="action_search">Busca</string>
+    <string name="action_open_xmltv_file">Aberto XMLTV EPG Ficheiro</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_exit">Saír</string>
     <string name="button_open">Aberto</string>
     <string name="button_cancel">Cancelar</string>
     <string name="dialog_open_xmltv_url_title">Introduce URL</string>
+  <string name="pref_default_xmltv_url_title">Por defecto XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Valor inicial en \"Aberto XMLTV EPG URL\" diálogo.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

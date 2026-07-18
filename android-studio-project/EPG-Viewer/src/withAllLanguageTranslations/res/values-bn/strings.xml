@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG দর্শক</string>
-    <string name="action_exit">বহির্গমন</string>
     <string name="action_open_xmltv_url">খোলা XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">খোলা XMLTV EPG ফাইল</string>
     <string name="action_search">অনুসন্ধান</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="action_exit">বহির্গমন</string>
     <string name="button_open">খোলা</string>
     <string name="button_cancel">বাতিল করুন</string>
     <string name="dialog_open_xmltv_url_title">প্রবেশ করুন URL</string>
+  <string name="pref_default_xmltv_url_title">ডিফল্ট XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">প্রাথমিক মান ইন \"খোলা XMLTV EPG URL\" সংলাপ.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

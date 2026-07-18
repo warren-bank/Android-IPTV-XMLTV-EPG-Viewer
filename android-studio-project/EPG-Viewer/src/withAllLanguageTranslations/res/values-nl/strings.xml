@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Kijker</string>
-    <string name="action_exit">Afsluiten</string>
     <string name="action_open_xmltv_url">Openen XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Openen XMLTV EPG Bestand</string>
     <string name="action_search">Zoeken</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_exit">Afsluiten</string>
     <string name="button_open">Openen</string>
     <string name="button_cancel">Annuleren</string>
     <string name="dialog_open_xmltv_url_title">Enter URL</string>
+  <string name="pref_default_xmltv_url_title">Standaard XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Beginswaarde in \"Openen XMLTV EPG URL\" dialoogvenster.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

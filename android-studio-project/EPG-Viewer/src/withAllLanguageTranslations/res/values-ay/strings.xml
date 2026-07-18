@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Uñjiri</string>
-    <string name="action_exit">Mistuña</string>
     <string name="action_open_xmltv_url">Justaraña XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Justaraña XMLTV EPG Qillqata</string>
-    <string name="action_search">Thaqhaña</string>
+    <string name="action_search">Thaqaña</string>
+    <string name="action_settings">Wakichäwinaka</string>
+    <string name="action_exit">Mistuña</string>
     <string name="button_open">Justaraña</string>
-    <string name="button_cancel">Q\'al t\'unjaña</string>
+    <string name="button_cancel">Q\'al chhaqtayaña</string>
     <string name="dialog_open_xmltv_url_title">Mantaña URL</string>
+  <string name="pref_default_xmltv_url_title">Qallta XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Qallta chani \"Justaraña XMLTV EPG URL\" Aruskipäwi.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

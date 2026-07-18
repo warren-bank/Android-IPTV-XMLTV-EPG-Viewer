@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Skoðandi</string>
-    <string name="action_exit">Útgangur</string>
     <string name="action_open_xmltv_url">Opinn XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Opinn XMLTV EPG Skjal</string>
     <string name="action_search">Leita</string>
+    <string name="action_settings">Stillingar</string>
+    <string name="action_exit">Útgangur</string>
     <string name="button_open">Opinn</string>
     <string name="button_cancel">Hætta við</string>
     <string name="dialog_open_xmltv_url_title">Sláðu inn URL</string>
+  <string name="pref_default_xmltv_url_title">Sjálfgefið XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Upphafleg gildi í \"Opinn XMLTV EPG URL\" Skilaboðargluggi.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

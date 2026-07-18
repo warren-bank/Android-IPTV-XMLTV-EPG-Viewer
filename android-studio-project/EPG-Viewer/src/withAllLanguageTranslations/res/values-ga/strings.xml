@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Féachóir</string>
-    <string name="action_exit">Scoir</string>
     <string name="action_open_xmltv_url">Oscailte XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Oscailte XMLTV EPG Comhad</string>
     <string name="action_search">Cuardaigh</string>
+    <string name="action_settings">Socruithe</string>
+    <string name="action_exit">Scoir</string>
     <string name="button_open">Oscailte</string>
     <string name="button_cancel">Cealaigh</string>
     <string name="dialog_open_xmltv_url_title">Cuir isteach URL</string>
+  <string name="pref_default_xmltv_url_title">Réamhshocrú XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Luach tosaigh isteach \"Oscailte XMLTV EPG URL\" comhrá.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

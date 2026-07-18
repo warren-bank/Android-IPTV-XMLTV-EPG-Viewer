@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Görüntüleyici</string>
-    <string name="action_exit">Çıkış</string>
     <string name="action_open_xmltv_url">Aç XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Aç XMLTV EPG Dosya</string>
     <string name="action_search">Arama</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_exit">Çıkış</string>
     <string name="button_open">Aç</string>
     <string name="button_cancel">İptal et</string>
     <string name="dialog_open_xmltv_url_title">Gir URL</string>
+  <string name="pref_default_xmltv_url_title">Varsayılan XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Başlangıç değeri \"Aç XMLTV EPG URL\" diyalog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

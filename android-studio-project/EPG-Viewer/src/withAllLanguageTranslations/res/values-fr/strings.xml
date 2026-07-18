@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Visionneuse</string>
-    <string name="action_exit">Sortie</string>
     <string name="action_open_xmltv_url">Ouvrir XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Ouvrir XMLTV EPG Fichier</string>
     <string name="action_search">Rechercher</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_exit">Sortie</string>
     <string name="button_open">Ouvrir</string>
     <string name="button_cancel">Annuler</string>
     <string name="dialog_open_xmltv_url_title">Entrer URL</string>
+  <string name="pref_default_xmltv_url_title">Par défaut XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Valeur initiale en \"Ouvrir XMLTV EPG URL\" boîte de dialogue.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

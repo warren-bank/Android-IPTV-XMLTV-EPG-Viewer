@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EPG Görüjisi</string>
-    <string name="action_exit">Çykmak</string>
+    <string name="app_name">EPG Göriji</string>
     <string name="action_open_xmltv_url">Açyk XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Açyk XMLTV EPG Faýl</string>
     <string name="action_search">Gözläň</string>
+    <string name="action_settings">Täze sazlamalar</string>
+    <string name="action_exit">Çykmak</string>
     <string name="button_open">Açyk</string>
-    <string name="button_cancel">Bygatlamak</string>
+    <string name="button_cancel">Bygzamak</string>
     <string name="dialog_open_xmltv_url_title">Girmek URL</string>
+  <string name="pref_default_xmltv_url_title">Öňünden kesgitlenen XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Başlangyç gymmaty \"Açyk XMLTV EPG URL\" dialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

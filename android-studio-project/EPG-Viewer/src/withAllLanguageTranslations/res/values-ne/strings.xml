@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG दर्शक</string>
-    <string name="action_exit">बाहिर निस्कनुहोस्</string>
-    <string name="action_open_xmltv_url">खोल XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">खोल XMLTV EPG फाइल</string>
+    <string name="action_open_xmltv_url">खोलिएको XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">खोलिएको XMLTV EPG फाइल</string>
     <string name="action_search">खोज्नुहोस्</string>
-    <string name="button_open">खोल</string>
+    <string name="action_settings">सेटिङहरू</string>
+    <string name="action_exit">बाहिर निस्कनुहोस्</string>
+    <string name="button_open">खोलिएको</string>
     <string name="button_cancel">रद्द गर्नुहोस्</string>
     <string name="dialog_open_xmltv_url_title">प्रवेश गर्नुहोस् URL</string>
+  <string name="pref_default_xmltv_url_title">पूर्वनिर्धारित XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">प्रारम्भिक मान \"खोलिएको XMLTV EPG URL\" संवाद.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

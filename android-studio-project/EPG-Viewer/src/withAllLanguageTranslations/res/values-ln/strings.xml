@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Motali</string>
-    <string name="action_exit">Bima</string>
     <string name="action_open_xmltv_url">Fungola XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Fungola XMLTV EPG Fayili</string>
     <string name="action_search">Luka</string>
+    <string name="action_settings">Bongiseli</string>
+    <string name="action_exit">Bima</string>
     <string name="button_open">Fungola</string>
     <string name="button_cancel">Kata</string>
     <string name="dialog_open_xmltv_url_title">Kɔ́tá URL</string>
+  <string name="pref_default_xmltv_url_title">Ndenge ezali XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Motuya ya ebandeli na \"Fungola XMLTV EPG URL\" Lisolo.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

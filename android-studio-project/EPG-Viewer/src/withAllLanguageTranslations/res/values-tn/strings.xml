@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Molebeledi</string>
-    <string name="action_exit">Tswa</string>
     <string name="action_open_xmltv_url">Bula XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Bula XMLTV EPG Faele</string>
     <string name="action_search">Batla</string>
+    <string name="action_settings">Ditlhophiso</string>
+    <string name="action_exit">Tswa</string>
     <string name="button_open">Bula</string>
-    <string name="button_cancel">Phimola</string>
+    <string name="button_cancel">Hlakola</string>
     <string name="dialog_open_xmltv_url_title">Tsena URL</string>
+  <string name="pref_default_xmltv_url_title">Tlwaelo XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Boleng jwa tshimologo mo \"Bula XMLTV EPG URL\" Puisano.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Người xem</string>
-    <string name="action_exit">Thoát</string>
     <string name="action_open_xmltv_url">Mở XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Mở XMLTV EPG Tệp</string>
     <string name="action_search">Tìm kiếm</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_exit">Thoát</string>
     <string name="button_open">Mở</string>
     <string name="button_cancel">Hủy</string>
     <string name="dialog_open_xmltv_url_title">Nhập URL</string>
+  <string name="pref_default_xmltv_url_title">Mặc định XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Giá trị ban đầu trong \"Mở XMLTV EPG URL\" hộp thoại.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Panonton</string>
-    <string name="action_exit">Metu</string>
     <string name="action_open_xmltv_url">Mbukak XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Mbukak XMLTV EPG File</string>
     <string name="action_search">Golek</string>
+    <string name="action_settings">Setelan</string>
+    <string name="action_exit">Metu</string>
     <string name="button_open">Mbukak</string>
     <string name="button_cancel">Batal</string>
     <string name="dialog_open_xmltv_url_title">Mlebu URL</string>
+  <string name="pref_default_xmltv_url_title">Standar XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Nilai awal ing \"Mbukak XMLTV EPG URL\" obrolan.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

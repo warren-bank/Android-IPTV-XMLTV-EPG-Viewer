@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Skatītājs</string>
-    <string name="action_exit">Iziet</string>
     <string name="action_open_xmltv_url">Atvērt XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Atvērt XMLTV EPG Fails</string>
     <string name="action_search">Meklēt</string>
+    <string name="action_settings">Iestatījumi</string>
+    <string name="action_exit">Iziet</string>
     <string name="button_open">Atvērt</string>
     <string name="button_cancel">Atcelt</string>
     <string name="dialog_open_xmltv_url_title">Ievadiet URL</string>
+  <string name="pref_default_xmltv_url_title">Noklusējums XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Sākotnējā vērtība \"Atvērt XMLTV EPG URL\" dialogs.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

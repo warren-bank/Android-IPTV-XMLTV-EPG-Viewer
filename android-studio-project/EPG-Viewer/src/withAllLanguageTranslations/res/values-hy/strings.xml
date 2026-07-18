@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Դիտող</string>
-    <string name="action_exit">Ելք</string>
     <string name="action_open_xmltv_url">Բաց XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Բաց XMLTV EPG Ֆայլ</string>
     <string name="action_search">Փնտրել</string>
+    <string name="action_settings">Կարգավորումներ</string>
+    <string name="action_exit">Ելք</string>
     <string name="button_open">Բաց</string>
     <string name="button_cancel">Չեղարկել</string>
     <string name="dialog_open_xmltv_url_title">Մուտք գործել URL</string>
+  <string name="pref_default_xmltv_url_title">Ստանդարտ XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Սկզբնական արժեքը ներսում \"Բաց XMLTV EPG URL\" զրույց.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

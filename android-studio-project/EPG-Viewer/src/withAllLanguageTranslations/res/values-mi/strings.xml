@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Kaioha</string>
-    <string name="action_exit">Putanga</string>
-    <string name="action_open_xmltv_url">Tuwhera XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">Tuwhera XMLTV EPG Kōnae</string>
+    <string name="action_open_xmltv_url">Whakatuwhera XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Whakatuwhera XMLTV EPG Kōnae</string>
     <string name="action_search">Rapu</string>
-    <string name="button_open">Tuwhera</string>
+    <string name="action_settings">Tautuhinga</string>
+    <string name="action_exit">Putanga</string>
+    <string name="button_open">Whakatuwhera</string>
     <string name="button_cancel">Whakakore</string>
     <string name="dialog_open_xmltv_url_title">Tomo URL</string>
+  <string name="pref_default_xmltv_url_title">Taunoa XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Uara tuatahi i roto \"Whakatuwhera XMLTV EPG URL\" Kōrero.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

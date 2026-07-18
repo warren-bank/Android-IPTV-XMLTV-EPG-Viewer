@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Vaataja</string>
-    <string name="action_exit">Väljumine</string>
     <string name="action_open_xmltv_url">Ava XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Ava XMLTV EPG Fail</string>
     <string name="action_search">Otsing</string>
+    <string name="action_settings">Seaded</string>
+    <string name="action_exit">Väljumine</string>
     <string name="button_open">Ava</string>
     <string name="button_cancel">Tühista</string>
     <string name="dialog_open_xmltv_url_title">Sisesta URL</string>
+  <string name="pref_default_xmltv_url_title">Vaikimisi XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Algväärtus \"Ava XMLTV EPG URL\" dialoog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

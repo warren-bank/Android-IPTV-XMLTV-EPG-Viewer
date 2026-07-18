@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Veyedor</string>
-    <string name="action_exit">Salir</string>
     <string name="action_open_xmltv_url">Ubierto XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Ubierto XMLTV EPG Archivo</string>
     <string name="action_search">Buscar</string>
+    <string name="action_settings">Aconfiguracions</string>
+    <string name="action_exit">Salir</string>
     <string name="button_open">Ubierto</string>
-    <string name="button_cancel">Cancelar</string>
+    <string name="button_cancel">Anular</string>
     <string name="dialog_open_xmltv_url_title">Dentrar URL</string>
+  <string name="pref_default_xmltv_url_title">Por defecto XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Valor inicial en \"Ubierto XMLTV EPG URL\" Dialogo.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

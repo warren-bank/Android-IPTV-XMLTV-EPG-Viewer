@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG 觀看者</string>
-    <string name="action_exit">退出</string>
     <string name="action_open_xmltv_url">開啟 XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">開啟 XMLTV EPG 檔案</string>
     <string name="action_search">搜尋</string>
+    <string name="action_settings">設定</string>
+    <string name="action_exit">退出</string>
     <string name="button_open">開啟</string>
     <string name="button_cancel">取消</string>
     <string name="dialog_open_xmltv_url_title">輸入 URL</string>
+  <string name="pref_default_xmltv_url_title">預設 XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">初始值在 \"開啟 XMLTV EPG URL\" 對話框.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

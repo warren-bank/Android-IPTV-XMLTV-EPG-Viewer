@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Gwyliwr</string>
-    <string name="action_exit">Allan</string>
-    <string name="action_open_xmltv_url">Agor XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">Agor XMLTV EPG Ffeil</string>
+    <string name="action_open_xmltv_url">Agored XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Agored XMLTV EPG Ffeil</string>
     <string name="action_search">Chwilio</string>
-    <string name="button_open">Agor</string>
+    <string name="action_settings">Gosodiadau</string>
+    <string name="action_exit">Allan</string>
+    <string name="button_open">Agored</string>
     <string name="button_cancel">Canslo</string>
     <string name="dialog_open_xmltv_url_title">Mewnbwn URL</string>
+  <string name="pref_default_xmltv_url_title">Rhagosodedig XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Gwerth cychwynnol yn \"Agored XMLTV EPG URL\" deialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

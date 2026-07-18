@@ -6,7 +6,7 @@
     "@warren-bank/translate-android-strings": "^3.0.1"
   },
   "scripts": {
-    "translate":       "translate-android-strings -s \"deepl\" -i \"en\" -f \"android-studio-project/EPG-Viewer/src/main/res/values/strings.xml\" -d \"android-studio-project/EPG-Viewer/src/withAllLanguageTranslations/res\" -m --na --nc --nw -b \"(?:XMLTV|EPG|URL)\"",
+    "translate":       "translate-android-strings -s \"deepl\" -i \"en\" -f \"android-studio-project/EPG-Viewer/src/main/res/values/strings.xml\" -d \"android-studio-project/EPG-Viewer/src/withAllLanguageTranslations/res\" -m --na --nc --nw -b \"(?:XMLTV|EPG|URL|[\\x22])\"",
     "translate:debug": "npm run translate -- -o \"en\" --debug"
   }
 }

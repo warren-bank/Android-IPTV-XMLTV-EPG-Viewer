@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EPG Panempo</string>
-    <string name="action_exit">Kaluar</string>
+    <string name="app_name">EPG Nu ningali</string>
     <string name="action_open_xmltv_url">Buka XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Buka XMLTV EPG File</string>
     <string name="action_search">Pilarian</string>
+    <string name="action_settings">Setélan</string>
+    <string name="action_exit">Kaluar</string>
     <string name="button_open">Buka</string>
     <string name="button_cancel">Batalkeun</string>
     <string name="dialog_open_xmltv_url_title">Asup URL</string>
+  <string name="pref_default_xmltv_url_title">Standar XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Nilai awal dina \"Buka XMLTV EPG URL\" dialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

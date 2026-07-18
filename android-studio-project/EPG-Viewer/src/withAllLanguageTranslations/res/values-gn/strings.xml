@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Ohecháva</string>
-    <string name="action_exit">Jesẽ</string>
     <string name="action_open_xmltv_url">Ojepe\'a XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Ojepe\'a XMLTV EPG Kuatiarogue</string>
-    <string name="action_search">Eheka</string>
+    <string name="action_search">He\'a</string>
+    <string name="action_settings">Mbohekorã</string>
+    <string name="action_exit">Jesẽ</string>
     <string name="button_open">Ojepe\'a</string>
-    <string name="button_cancel">Mboje\'o</string>
+    <string name="button_cancel">Embogue</string>
     <string name="dialog_open_xmltv_url_title">Eike URL</string>
+  <string name="pref_default_xmltv_url_title">Ojehechaháichaite XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Mbohepy ñepyrũrã \"Ojepe\'a XMLTV EPG URL\" Ñomongeta.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Néző</string>
-    <string name="action_exit">Kilépés</string>
     <string name="action_open_xmltv_url">Megnyitás XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Megnyitás XMLTV EPG Fájl</string>
     <string name="action_search">Keresés</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="action_exit">Kilépés</string>
     <string name="button_open">Megnyitás</string>
     <string name="button_cancel">Mégse</string>
     <string name="dialog_open_xmltv_url_title">Belépés URL</string>
+  <string name="pref_default_xmltv_url_title">Alapértelmezett XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Kezdőérték a \"Megnyitás XMLTV EPG URL\" párbeszéd.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

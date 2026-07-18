@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Daawwataa</string>
-    <string name="action_exit">Bitii</string>
     <string name="action_open_xmltv_url">Bani XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Bani XMLTV EPG Faayilii</string>
     <string name="action_search">Barbaadi</string>
+    <string name="action_settings">Qindaa\'inoota</string>
+    <string name="action_exit">Ba\'i</string>
     <string name="button_open">Bani</string>
     <string name="button_cancel">Haqi</string>
     <string name="dialog_open_xmltv_url_title">Seeni URL</string>
+  <string name="pref_default_xmltv_url_title">Akka duraan turetti XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Gatii jalqabaa keessa \"Bani XMLTV EPG URL\" Haasawa.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

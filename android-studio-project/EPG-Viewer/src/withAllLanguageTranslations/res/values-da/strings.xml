@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Seer</string>
-    <string name="action_exit">Afgang</string>
     <string name="action_open_xmltv_url">Åben XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Åben XMLTV EPG Fil</string>
     <string name="action_search">Søg</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="action_exit">Afgang</string>
     <string name="button_open">Åben</string>
     <string name="button_cancel">Annuller</string>
     <string name="dialog_open_xmltv_url_title">Indtast URL</string>
+  <string name="pref_default_xmltv_url_title">Standard XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Startværdi i \"Åben XMLTV EPG URL\" dialog.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

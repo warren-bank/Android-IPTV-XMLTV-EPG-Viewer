@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Гледач</string>
-    <string name="action_exit">Излез</string>
     <string name="action_open_xmltv_url">Отворено XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">Отворено XMLTV EPG Датотека</string>
     <string name="action_search">Пребарување</string>
+    <string name="action_settings">Поставки</string>
+    <string name="action_exit">Излез</string>
     <string name="button_open">Отворено</string>
     <string name="button_cancel">Откажи</string>
     <string name="dialog_open_xmltv_url_title">Внесете URL</string>
+  <string name="pref_default_xmltv_url_title">Стандардно XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Почетна вредност во \"Отворено XMLTV EPG URL\" дијалог.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

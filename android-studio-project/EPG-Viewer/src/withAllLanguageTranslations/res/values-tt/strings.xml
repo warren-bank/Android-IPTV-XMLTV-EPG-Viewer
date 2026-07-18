@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG Караучы</string>
-    <string name="action_exit">Чыгу</string>
-    <string name="action_open_xmltv_url">Ачу XMLTV EPG URL</string>
-    <string name="action_open_xmltv_file">Ачу XMLTV EPG Файл</string>
+    <string name="action_open_xmltv_url">Ачык XMLTV EPG URL</string>
+    <string name="action_open_xmltv_file">Ачык XMLTV EPG Файл</string>
     <string name="action_search">Эзләү</string>
-    <string name="button_open">Ачу</string>
-    <string name="button_cancel">Бәхәсләшүне туктату</string>
+    <string name="action_settings">Көйләүләр</string>
+    <string name="action_exit">Чыгу</string>
+    <string name="button_open">Ачык</string>
+    <string name="button_cancel">Бәйсезләү</string>
     <string name="dialog_open_xmltv_url_title">Керегез URL</string>
+  <string name="pref_default_xmltv_url_title">Төп XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">Керү кыйммәте \"Ачык XMLTV EPG URL\" Диалог.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>

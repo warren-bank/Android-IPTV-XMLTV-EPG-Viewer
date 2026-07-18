@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EPG צופה</string>
-    <string name="action_exit">יציאה</string>
     <string name="action_open_xmltv_url">פתח XMLTV EPG URL</string>
     <string name="action_open_xmltv_file">פתח XMLTV EPG קובץ</string>
     <string name="action_search">חיפוש</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="action_exit">יציאה</string>
     <string name="button_open">פתח</string>
     <string name="button_cancel">ביטול</string>
     <string name="dialog_open_xmltv_url_title">הזן URL</string>
+  <string name="pref_default_xmltv_url_title">ברירת מחדל XMLTV EPG URL</string>
+  <string name="pref_default_xmltv_url_summary">הערך ההתחלתי ב- \"פתח XMLTV EPG URL\" דיאלוג.</string>
+  <string translatable="false" name="pref_default_xmltv_url_default"></string>
 </resources>
